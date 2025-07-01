@@ -141,8 +141,4 @@ Kiểm tra file `data/dataset.csv` có đúng format không:
 
 MIT License - xem file LICENSE để biết thêm chi tiết.
 
-## Liên hệ
 
-Nếu có câu hỏi hoặc góp ý, vui lòng liên hệ qua email: [your-email@example.com]
-
---- 
